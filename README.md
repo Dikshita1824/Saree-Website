@@ -61,17 +61,6 @@ Copy code
 
 ---
 
-## 🌍 Live Demo
-
-If hosted using **GitHub Pages**, open:
-
-https://your-username.github.io/saree-website/saree.html
-
-yaml
-Copy code
-
----
-
 ## 🎯 Purpose of the Project
 
 - To spread awareness about **Indian textile heritage**
@@ -83,6 +72,7 @@ Copy code
 ## 👩‍💻 Author
 
 **Dikshita Mittal**  
+BCA 2nd Year (3rd Semester) Dezyne Ecole College, Ajmer
 Front-End Web Development Project  
 HTML | CSS | Bootstrap
 
