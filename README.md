@@ -1,4 +1,4 @@
-🥻 Saree Information Website
+ Saree Information Website
 
 A multi-page, static informational website designed to showcase the rich **history, cultural significance, and variety of Indian sarees** from different states of India. This project focuses on clean design, organized content, and smooth navigation to provide an engaging user experience.
 
